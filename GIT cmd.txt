@@ -1,0 +1,19 @@
+To view user name : git config --global user.name
+
+To view email address : git config --global user.email
+
+To create .git (hidden) file : git init
+
+To view the branch (master by default) : git branch
+
+To switch/create new branch : git checkout -b leykart (name of the new branch)
+
+To add all files : git add *
+
+To add single file : git add sample.txt (name of the file)
+
+To add multiple files : git add sample.txt sample1.txt
+
+To view the GIT folder details : git status
+
+To view SSH key : cat ~/.ssh/id_rsa.pub
