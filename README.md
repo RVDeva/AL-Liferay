@@ -1,2 +1,2 @@
-# AL-Leykart-BulkMagID-Liferay
+# AL-Liferay
 My first repository on GitHub
